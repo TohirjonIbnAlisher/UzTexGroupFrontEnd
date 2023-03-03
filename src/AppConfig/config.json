@@ -1,4 +1,4 @@
 {
-    "BACKEND_API_URL" : "https://uztexgroup.azurewebsites.net",
+    "BACKEND_API_URL" : "http://localhost:1200/",
     "DEFAULT_HOST": ""
 }
